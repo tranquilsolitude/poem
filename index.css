@@ -1,3 +1,9 @@
+body{
+    background-color: #fa9613c5;
+}
+/* background-color: #d8c34dce; */
+/* background-color: #cfb521ce; */
+
 nav {
     position: fixed;
     left: 0px;
@@ -30,14 +36,14 @@ a:link {
     font-family: Montserrat;
     font-weight: 400;
     text-decoration: none;
-    color: black;
+    color: #808080;
 }
 
 a:visited {
     font-family: Montserrat;
     font-weight: 400;
     text-decoration: none;
-    color: black;
+    color: #808080;
 }
 
 a:hover {
@@ -156,7 +162,7 @@ a:hover {
     justify-content: center;
     align-items: center;
     margin: 20px 20px;
-    border: 1px solid grey;
+    border: 1px solid black;
     padding: 25px 25px;
 }
 
@@ -197,6 +203,7 @@ a:hover {
     font-weight: 200;
     font-size: 1.1rem;
     word-wrap: break-word;
+    color: #808080
 }
 
 .projectDescription h3 {
