@@ -1,5 +1,5 @@
 body{
-    background-color: #fa9613c5;
+    background-color: #e5e063;
 }
 
 nav {
@@ -161,7 +161,7 @@ a:hover {
     justify-content: center;
     align-items: center;
     margin: 20px 20px;
-    border: 1px solid black;
+    border: 1px solid #ffffff;
     padding: 25px 25px;
 }
 
@@ -201,9 +201,9 @@ a:hover {
 .projectDescription p {
     font-family: Montserrat;
     font-weight: 200;
-    font-size: 1.1rem;
+    font-size: 1rem;
     word-wrap: break-word;
-    color: #808080
+    color: #684906;
 }
 
 .projectDescription h3 {
