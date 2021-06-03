@@ -71,7 +71,6 @@ a:hover {
     text-align: center;
     margin-bottom: 5px;
     margin-top: 5px;
-    color: #4A2600;
 }
 
 .introWhite h3 {
@@ -206,10 +205,27 @@ a:hover {
     color: #684906;
 }
 
+.cata{
+    color: #684906;
+}
+
+.grey{
+    color: #808080;
+}
+
+.date{
+    font-family: Montserrat;
+    font-weight: 200;
+    font-size: 1rem;
+    word-wrap: break-word;
+    color: #684906;
+    text-align: right;
+}
+
 .projectDescription h3 {
     font-family: Montserrat;
     font-weight: 200;
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 
 .projectDescription .tech {
