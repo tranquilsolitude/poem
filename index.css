@@ -218,6 +218,15 @@ a:hover {
     color: #684906;
 }
 
+.projectDescriptionShort p {
+    font-family: Montserrat;
+    font-weight: 200;
+    font-size: 1rem;
+    word-wrap: break-word;
+    color: #684906;
+    text-align: center;
+}
+
 .cata{
     color: #684906;
 }
@@ -249,6 +258,23 @@ a:hover {
 }
 
 .projectDescription hr {
+    width: 100%;
+}
+
+.projectDescriptionShort h3 {
+    font-family: Montserrat;
+    font-weight: 200;
+    font-size: 1.4rem;
+    color: #808080;
+}
+
+.projectDescriptionShort .tech {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.projectDescriptionShort hr {
     width: 100%;
 }
 
